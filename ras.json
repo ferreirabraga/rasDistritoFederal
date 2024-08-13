@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "nome": "Plano Piloto"
+  },
+  {
+    "id": 2,
+    "nome": "Gama"
+  },
+  {
+    "id": 3,
+    "nome": "Taguatinga"
+  },
+  {
+    "id": 4,
+    "nome": "Brazlândia"
+  },
+  {
+    "id": 5,
+    "nome": "Sobradinho"
+  },
+  {
+    "id": 6,
+    "nome": "Planaltina"
+  },
+  {
+    "id": 7,
+    "nome": "Paranoá"
+  },
+  {
+    "id": 8,
+    "nome": "Núcleo Bandeirante"
+  },
+  {
+    "id": 9,
+    "nome": "Ceilândia"
+  },
+  {
+    "id": 10,
+    "nome": "Guará"
+  },
+  {
+    "id": 11,
+    "nome": "Cruzeiro"
+  },
+  {
+    "id": 12,
+    "nome": "Samambaia"
+  },
+  {
+    "id": 13,
+    "nome": "Santa Maria"
+  },
+  {
+    "id": 14,
+    "nome": "São Sebastião"
+  },
+  {
+    "id": 15,
+    "nome": "Recanto da Emas"
+  },
+  {
+    "id": 16,
+    "nome": "Lago Sul"
+  },
+  {
+    "id": 17,
+    "nome": "Riacho Fundo I"
+  },
+  {
+    "id": 18,
+    "nome": "Lago Norte"
+  },
+  {
+    "id": 19,
+    "nome": "Candangolândia"
+  },
+  {
+    "id": 20,
+    "nome": "Águas Claras"
+  },
+  {
+    "id": 21,
+    "nome": "Riacho Fundo II"
+  },
+  {
+    "id": 22,
+    "nome": "Sudoeste/Octogonal"
+  },
+  {
+    "id": 23,
+    "nome": "Varjão"
+  },
+  {
+    "id": 24,
+    "nome": "Park Way"
+  },
+  {
+    "id": 25,
+    "nome": "SCIA"
+  },
+  {
+    "id": 26,
+    "nome": "Sobradinho II"
+  },
+  {
+    "id": 27,
+    "nome": "Jardim Botânico"
+  },
+  {
+    "id": 28,
+    "nome": "Itapoã"
+  },
+  {
+    "id": 29,
+    "nome": "SIA"
+  },
+  {
+    "id": 30,
+    "nome": "Vicente Pires"
+  },
+  {
+    "id": 31,
+    "nome": "Fercal"
+  },
+  {
+    "id": 32,
+    "nome": "Sol Nascente/Pôr do Sol"
+  },
+  {
+    "id": 33,
+    "nome": "Arniqueira"
+  }
+]
